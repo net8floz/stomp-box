@@ -14,7 +14,7 @@
 
 #define SERIAL_NUMBER                                            \
   {                                                        \
-    '420-69' \
+    '111-11' \
   }
 #define SERIAL_NUMBER_LEN 1
 
